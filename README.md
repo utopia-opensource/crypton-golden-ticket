@@ -1,5 +1,7 @@
 # crypton-golden-ticket
 
+![logo](example.png)
+
 A flyer directing the user to install Utopia & activate voucher.
 
 Usage:
